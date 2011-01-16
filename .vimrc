@@ -53,6 +53,7 @@ winpos 235 200
 set lines=35 columns=128
 " 自动与上一行跟从缩进
 set autoindent
+set smartindent
 imap <C-S> <C-C>:w<CR>
 imap <C-Z> <C-C>:u<CR>
 imap <F2> <C-C>:tabp<CR>i
