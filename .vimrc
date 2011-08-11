@@ -38,7 +38,7 @@ set showcmd
 "隐藏菜单栏和工具栏
 set guioptions-=m
 set guioptions-=T
-" BufExplorer 快捷键 {{{
+" BufExplorer 快捷键
 imap <silent> <F7> <esc>:BufExplorer<CR>
 nmap <silent> <F7> :BufExplorer<CR>
 " NERDTree
