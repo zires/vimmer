@@ -60,5 +60,5 @@ imap <F2> <C-C>:tabp<CR>i
 imap <f3> <C-C>:tabn<CR>i
 
 " Code Format
-map <silent> <F5> mmgg=G`m^
-imap <silent> <F5> <Esc> mmgg=G`m^
+map <silent> <F5> mmgg=G'm
+imap <silent> <F5> <Esc> mmgg=G'm
